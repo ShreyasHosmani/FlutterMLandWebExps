@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+
+    <!-- FAVICONS -->
+    <link rel="icon" href="/favicon.png">
+    <link rel="apple-touch-icon" href="/favicon.png">
+    <link rel="shortcut icon" type="image/png" href="/favicon.png" />
+
+    <title>Web</title>
+
+    <!--ALWAYS COMES HERE-->
+    <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs@1.0.0/dist/tf.min.js"></script>
+
+    <!-- Load the MobileNet model. -->
+    <script src="https://cdn.jsdelivr.net/npm/@tensorflow-models/mobilenet@1.0.0">
+    </script>
+
+</head>
+
+<body id='body-container'>
+    <!-- <div id="ml_output"></div> -->
+    <img id="img" src="cat.jpg" hidden></img>
+
+    <!-- Firebase App (the core Firebase SDK) is always required and must be listed first -->
+    <script src="https://www.gstatic.com/firebasejs/7.12.0/firebase-app.js"></script>
+
+    <!-- Add Firebase products that you want to use -->
+    <script defer src="https://www.gstatic.com/firebasejs/7.12.0/firebase-auth.js"></script>
+    <script defer src="https://www.gstatic.com/firebasejs/7.12.0/firebase-firestore.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/7.12.0/firebase-analytics.js"></script>
+    <script src="/__/firebase/init.js"></script>
+
+    <!-- CUSTOM JS -->
+    <script src="js/custom.js"></script>
+    <script src="js/ml/ml.js"></script>
+    <!-- <script src="js/ml/iris/data.js"></script> -->
+    <script src="js/ml/mobilenet.js"></script>
+
+    <script defer src="main.dart.js?version=5" type="application/javascript"></script>
+</body>
+
+</html>
