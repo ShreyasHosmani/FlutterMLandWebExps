@@ -30673,7 +30673,7 @@ Z.SL.prototype={}
 F.Ty.prototype={}
 N.B8.prototype={
 F:function(a){var t=null,s=S.f4(F.a59(C.pk,0.1),t,t,P.az(13,0,0,0),t,t,C.R),r=u.p
-return M.dD(t,T.jg(H.a([new T.dp(1,C.aC,T.lA(H.a([new L.Bk("Singapore",t),C.o2],r),C.a3,C.aa,C.bR),t),new T.dp(1,C.aC,this.OF(a),t)],r),C.a3,C.aa,C.bR),t,t,s,t,t,t,t)},
+return M.dD(t,T.jg(H.a([new T.dp(1,C.aC,T.lA(H.a([new L.Bk("Pune, India",t),C.o2],r),C.a3,C.aa,C.bR),t),new T.dp(1,C.aC,this.OF(a),t)],r),C.a3,C.aa,C.bR),t,t,s,t,t,t,t)},
 OF:function(a){var t,s=null,r=S.f4(F.a59(C.pk,0.1),s,s,s,s,s,C.R),q=H.a([],u.p)
 for(t=0;t<6;++t)q.push(new R.nP(C.z9[t],new N.Qx(),s))
 C.b.nt(q,3,C.o2)
@@ -59175,7 +59175,7 @@ C.BP=new P.iq(C.n,C.AL,7)
 C.zb=H.a(t([C.BP]),H.a_("m<iq>"))
 C.iR=H.a(t([0,0,65490,45055,65535,34815,65534,18431]),u.t)
 C.zc=H.a(t(["pointerdown","pointermove","pointerup","pointercancel","touchstart","touchend","touchmove","touchcancel","mousedown","mousemove","mouseup","keyup","keydown"]),u.s)
-C.zd=H.a(t(["\u4e2d\u6587(\u7b80\u4f53)","Melayu","\u0ba4\u0bae\u0bbf\u0bb4\u0bcd"]),u.s)
+C.zd=H.a(t(["English","Hindi","Kannada"]),u.s)
 C.ze=H.a(t(["Gmail","Images"]),u.s)
 C.q2=H.a(t([0,0,26624,1023,65534,2047,65534,2047]),u.t)
 C.uX=new P.nB()

@@ -7,7 +7,7 @@ const RESOURCES = {
 "js/ml/iris/data.js": "2e0ec977fcd93de6b45c83959acf46d8",
 "js/ml/mobilenet.js": "3b23246dcacbd67f25e89db9beadfaf5",
 "js/ml/ml.js": "f0f473a7ec4f523f6080fd1825efc7fa",
-"main.dart.js": "d909f6d744d71a4fbed5de165d9085de",
+"main.dart.js": "58d942f8b90f52f24d15b8d519521d17",
 "favicon.png": "a37e33588294a5b1393bb96c0ba48b0f",
 "cat.jpg": "85b7e2805a1ec5b52b3efb44327e5389",
 "assets/LICENSE": "3d6d75b3a19525a210c9dc713dbff93d",
